@@ -7,9 +7,9 @@
 
 | Campo | Dato |
 |-------|------|
-| **Nombre y Apellido** | |
-| **Legajo** | |
-| **Correo electrónico** | |
+| **Nombre y Apellido** | lautaro scarselletta    |
+| **Legajo** | 30275|
+| **Correo electrónico** | scarselllautaro@gmail.com|
 
 ---
 
